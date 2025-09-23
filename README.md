@@ -29,7 +29,7 @@ Frontend:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamchaubey9889&layout=compact&theme=tokyonight" />
 </p>
 📊 **Github Stats**
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamchaubey9889&show_icons=true&locale=en" alt="satyamchaubey9889" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamchaubey9889&show_icons=true&locale=en&theme=tokyonight" alt="satyamchaubey9889" /></p>
 
 
 
